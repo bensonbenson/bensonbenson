@@ -8,4 +8,4 @@ a few things i've been maintaining for my own personal use:
 
 [package-tracker](https://github.com/bensonbenson/package-tracker)
 
-[heic-converter](https://github.com/bensonbenson/heic-converter)
+[heic-converter](https://github.com/bensonbenson/heic-converter), try it out [here](https://bensonbenson.github.io/heic-converter/)
