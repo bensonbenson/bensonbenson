@@ -6,7 +6,7 @@ hello, you've found my github profile
 
 a few things i've been maintaining for my own personal use:
 
-WIP! [recipez](https://github.com/bensonbenson/recipez) (public url soon!)
+[recipez](https://github.com/bensonbenson/recipez), try it out here(https://bensonbenson.github.io/recipez/)
 
 [package-tracker](https://github.com/bensonbenson/package-tracker)
 
