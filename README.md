@@ -1,5 +1,7 @@
 hello, you've found my github profile
 
+currently dev-ing for [@goshippo](https://github.com/goshippo)!
+
 [professional inquiries/linkedin](https://www.linkedin.com/in/bensonbensontran/)
 
 ---
